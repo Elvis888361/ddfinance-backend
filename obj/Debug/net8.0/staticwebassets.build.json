@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8SxahWJoU3cAATBcIV0DS7tqKzfRBYRdRopeNBInPRo=",
+  "Source": "InsuranceAPI",
+  "BasePath": "_content/InsuranceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
